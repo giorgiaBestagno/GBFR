@@ -19,3 +19,4 @@ public interface AcquistoDao {
 	
 	public void close();	
 }
+//Io sono un commento inutile

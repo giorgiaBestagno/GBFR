@@ -22,7 +22,7 @@ public class AcquistoDaoImpl implements AcquistoDao{
 	public void AcqistoDaoImpl(){
 		connection = DBUtilityConnection.getConnection();
 	}
-	
+	//Io sono un commento inutile
 	
 	
 	public Acquisto insertAcquisto (int idProdotto){
