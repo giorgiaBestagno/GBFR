@@ -11,6 +11,8 @@ public class Acquisto {
 	private int quantitaAcquistata;
 	private int idUtente;
 	private int idProdotto;
+	
+	
 	public int getIdAquisto() {
 		return idAquisto;
 	}
